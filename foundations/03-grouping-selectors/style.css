@@ -1,0 +1,11 @@
+.same {
+  font-family: helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+.first {
+  background-color: black;
+  color: #f6f5ef;
+}
+.second {
+  background-color: rgb(230, 206, 28);
+}
